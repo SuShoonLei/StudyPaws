@@ -46,7 +46,7 @@ The backend lives in [`studypaws-backend`](../studypaws-backend) (Python · Fast
 - 🎮 **Reward mini-game** — tap falling food items before they vanish in 20 seconds
 - 🍱 **Food inventory bar** — always-visible tally of collected food per animal
 - 🐶 **Pet feeding screen** — feed your pet, watch the happiness bar fill, get emoji reactions
-- 🌸 **Pastel design** — soft gradients, frosted glass cards, floating emoji bubbles, spring animations
+- 🎀 **Pastel design** — soft gradients, frosted glass cards, floating emoji bubbles, spring animations
 - 📱 **Responsive** — works on desktop and mobile
 
 ---
@@ -262,4 +262,4 @@ setInventory(feed.inventory);      // updated counts for all animals
 
 ## License
 
-MIT — do whatever you like, just keep the paws. 🐾
+MIT ... just keep the paws. 🐾
